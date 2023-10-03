@@ -1,0 +1,15 @@
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/Sequencial
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/Sequencial.deps.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/Sequencial.runtimeconfig.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/Sequencial.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/ref/Sequencial.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/bin/Debug/net6.0/Sequencial.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.csproj.AssemblyReference.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.AssemblyInfo.cs
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/ref/Sequencial.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios01/Sequencial/obj/Debug/net6.0/Sequencial.genruntimeconfig.cache
