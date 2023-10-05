@@ -1,0 +1,15 @@
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/Selecao
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/Selecao.deps.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/Selecao.runtimeconfig.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/Selecao.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/ref/Selecao.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/bin/Debug/net6.0/Selecao.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.csproj.AssemblyReference.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.AssemblyInfo.cs
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/ref/Selecao.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicios02/Selecao/obj/Debug/net6.0/Selecao.genruntimeconfig.cache
