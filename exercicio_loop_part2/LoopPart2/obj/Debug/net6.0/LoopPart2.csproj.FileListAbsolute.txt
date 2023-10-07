@@ -1,0 +1,15 @@
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/LoopPart2
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/LoopPart2.deps.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/LoopPart2.runtimeconfig.json
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/LoopPart2.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/ref/LoopPart2.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/bin/Debug/net6.0/LoopPart2.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.csproj.AssemblyReference.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.AssemblyInfo.cs
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/ref/LoopPart2.dll
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.pdb
+/home/rodrigo/Documentos/CSharp-treino/academia.net_2023/exercicio_loop_part2/LoopPart2/obj/Debug/net6.0/LoopPart2.genruntimeconfig.cache
