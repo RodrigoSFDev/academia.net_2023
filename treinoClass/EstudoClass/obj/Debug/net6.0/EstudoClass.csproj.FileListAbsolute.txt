@@ -1,0 +1,15 @@
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/EstudoClass
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/EstudoClass.deps.json
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/EstudoClass.runtimeconfig.json
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/EstudoClass.dll
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/ref/EstudoClass.dll
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/bin/Debug/net6.0/EstudoClass.pdb
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.csproj.AssemblyReference.cache
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.AssemblyInfo.cs
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.dll
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/ref/EstudoClass.dll
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.pdb
+/home/rodrigo/Documentos/CSharp-treino/treinoClass/EstudoClass/obj/Debug/net6.0/EstudoClass.genruntimeconfig.cache
